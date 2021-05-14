@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://rajams1731:rajams1731@devconnector.maczy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1379123e72d43b8c6536",
+  "githubSecret": "83bc7245d022ea37e236e8996d5ba3a77835a4a4"
+}
